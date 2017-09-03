@@ -23,3 +23,7 @@ border-left: 2px solid black;
 .btm {
     border-bottom: 2px solid black;
 }
+
+table {
+    margin: 0 auto;
+}
