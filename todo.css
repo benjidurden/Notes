@@ -1,0 +1,22 @@
+#test {
+    background: orange;
+}
+.check {
+    text-decoration: line-through;
+}
+#beta {
+    border: 5px solid purple;
+}
+
+h1 + .desc + .desc {
+    color: red;
+}
+
+a[href="http://www.google.com"]{
+    text-align: center;
+    font-size: 25px;
+}
+
+li:nth-of-type(even){
+    color: red;
+}

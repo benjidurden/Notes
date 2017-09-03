@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+td {
+    width: 100px;
+    height: 100px;
+}
+
+.btm-right {
+border-right: 2px solid black;
+border-bottom: 2px solid black;
+}
+.btm-left {
+border-left: 2px solid black;
+border-bottom: 2px solid black;
+}
+.right {
+border-right: 2px solid black;
+}
+#left {
+border-left: 2px solid black;
+}
+.btm {
+    border-bottom: 2px solid black;
+}
